@@ -1,0 +1,42 @@
+{
+  "DinomiteServer": {
+    "settings": {
+      "OpenButton": 0,
+      "HideIcon": false,
+      "HideIconAfter": 60,
+      "IconURL": "",
+      "DisableIconText": false,
+      "IconPosition": 0,
+      "IconTextColor": 0,
+      "OpenOnStart": true,
+      "OpenOnStartOnlyNewPlayers": true,
+      "UpdateInterval": 12
+    },
+    "tabs": [
+      {
+        "welcomePage": {
+          "layout": 1,
+          "buttontext": "Welcome to Dinomite Server!",
+          "title1": "Welcome Survivors!",
+          "text1": "Greetings and welcome to the Dinomite Ark Survival Ascended Server! We're thrilled to have you join our community of survivors. Before you embark on your journey, please take a moment to familiarize yourself with the server rules on the next page."
+        }
+      },
+      {
+        "rulesPage": {
+          "layout": 1,
+          "buttontext": "Server Rules",
+          "title1": "The Basic Rules",
+          "text1": "Admins will decide whether a rule break is significant enough to warrant a punishment, etc. The spirit of the rules is more important. Likewise, actions not listed here might be found to be toxic to the community and reacted to. We will try to keep general actions and details public."
+        }
+      }
+    ],
+    "links": [
+      {
+        "discordLink": {
+          "text": "Join our Discord Server",
+          "url": "https://discord.gg/AzaNPZ83fA"
+        }
+      }
+    ]
+  }
+}
